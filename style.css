@@ -1,0 +1,40 @@
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    
+    
+}
+.firs-font-color{
+    color: rgb(255, 0, 217);
+    
+}
+.w{
+    color: rgb(255, 0, 0);
+    
+}
+.l{
+    color: rgb(0, 64, 255);
+}
+.o{
+    
+    color: rgb(208, 0, 255);
+}
+.e{
+    
+    color: rgb(26, 255, 0);
+}
+h3{
+    
+    font-family: 'Ubuntu', sans-serif;
+}
+
+section{
+    
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 77%;
+    
+}
