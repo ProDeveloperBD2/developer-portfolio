@@ -1,10 +1,26 @@
-h1{
+body{
+    
+    font-family: 'Roboto Slab', serif;
     font-family: 'Ubuntu', sans-serif;
+    
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin: 0%;
+    
+}
+
+
+h1{
+    
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 280%;
     
     
 }
 .firs-font-color{
     color: rgb(255, 0, 217);
+    
     
 }
 .w{
@@ -22,19 +38,120 @@ h1{
     
     color: rgb(26, 255, 0);
 }
-h3{
+.text-font{
     
     font-family: 'Ubuntu', sans-serif;
+    
 }
 
-section{
+.flex-area{
     
     display: flex;
+    margin-bottom: 160px;
+    
 }
 .half-width{
     width: 50%;
+    padding-left: 4%;
+    margin-left: 2%;
+    margin-top: 2%;
 }
 .half-width img{
-    width: 77%;
+    width: 90%;
+    margin-top: 4%;
+    
+}
+
+.link-btn{
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 0, 225), rgb(208, 0, 255));
+    border-radius: 5%;
+    padding: 10px 30px;
+    color: aliceblue;
+    font-weight: 700;
+    margin-left: 1%;
+    
+}
+.font-left{
+    
+    margin-top: 0%;
+    
+}
+
+
+p{
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu', sans-serif;
+    
+    
+    
+}
+.world{
+    
+    color: rgb(255, 0, 217);
+    margin-left: 19%;
+    
+}
+.wel-left{
+    margin-left: 9%;
+    
+}
+.dream-big{
+    display: flex;
+    
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
+.section3-left{
+    margin-top: 12%;
+    margin-left: 3%;
+    
+}
+.experience-color{
+    
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(255, 0, 0);
+}
+.experienc-area{
+    
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.experience-item{
+    
+    width: 50%;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-left: 7px solid rgb(255, 0, 217);
+    box-shadow: 10px 10px 40px gray;
+    
+    
+}
+h2{
+    font-size: 37px;
+    
+}
+#full-stack-developer{
+    border-left: 7px solid tomato;
+    
+}
+
+#dream-id{
+    
+    margin-right: 10%;
+}
+
+footer{
+    
+    text-align: center;
     
 }
