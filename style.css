@@ -5,16 +5,15 @@ body{
     
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    margin: 0%;
+    margin: 0vw;
     
 }
 
 
 h1{
     
-    font-family: 'Roboto Slab', serif;
-    font-family: 'Ubuntu', sans-serif;
-    font-size: 280%;
+    
+    font-size: 4.10vw;
     
     
 }
@@ -38,27 +37,23 @@ h1{
     
     color: rgb(26, 255, 0);
 }
-.text-font{
-    
-    font-family: 'Ubuntu', sans-serif;
-    
-}
+
 
 .flex-area{
     
     display: flex;
-    margin-bottom: 160px;
+    margin-bottom: 15vw;
     
 }
 .half-width{
-    width: 50%;
-    padding-left: 4%;
-    margin-left: 2%;
-    margin-top: 2%;
+    width: 50vw;
+    padding-left: 4vw;
+    margin-left: 2vw;
+    margin-top: 2vw;
 }
 .half-width img{
-    width: 90%;
-    margin-top: 4%;
+    width: 40vw;
+    margin-top: 3vw;
     
 }
 
@@ -66,16 +61,16 @@ h1{
     font-family: 'Ubuntu', sans-serif;
     text-decoration: none;
     background-image: linear-gradient(rgb(255, 0, 225), rgb(208, 0, 255));
-    border-radius: 5%;
-    padding: 10px 30px;
+    border-radius: 0.5vw;
+    padding: 1vw 2vw;
     color: aliceblue;
     font-weight: 700;
-    margin-left: 1%;
+    margin-left: 0.5vw;
     
 }
 .font-left{
     
-    margin-top: 0%;
+    margin-top: 0vw;
     
 }
 
@@ -86,15 +81,16 @@ p{
     
     
     
+    
 }
 .world{
     
     color: rgb(255, 0, 217);
-    margin-left: 19%;
+    margin-left: 9.10vw;
     
 }
 .wel-left{
-    margin-left: 9%;
+    margin-left: 4vw;
     
 }
 .dream-big{
@@ -107,8 +103,8 @@ p{
 
 
 .section3-left{
-    margin-top: 12%;
-    margin-left: 3%;
+    margin-top: 12vw;
+    margin-left: 3vw;
     
 }
 .experience-color{
@@ -126,32 +122,43 @@ p{
 
 .experience-item{
     
-    width: 50%;
-    margin-top: 3%;
-    margin-left: 5%;
-    margin-right: 5%;
-    padding-left: 20px;
-    border-left: 7px solid rgb(255, 0, 217);
-    box-shadow: 10px 10px 40px gray;
+    width: 50vw;
+    margin-top: 3vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding-left: 3vw;
+    border-left: 0.5vw solid rgb(255, 0, 217);
+    box-shadow: 1vw 1vw 4vw gray;
     
     
 }
 h2{
-    font-size: 37px;
+    font-size: 3.4vw;
     
 }
 #full-stack-developer{
-    border-left: 7px solid tomato;
+    border-left: 0.5vw solid tomato;
     
 }
 
 #dream-id{
     
-    margin-right: 10%;
+    margin-right: 10vw;
 }
 
 footer{
     
     text-align: center;
+    
+}
+h3{
+    font-size: 1.75vw; 
+}
+a{
+    font-size: 1.50vw;
+    
+}
+p{
+    font-size: 1.50vw;
     
 }
